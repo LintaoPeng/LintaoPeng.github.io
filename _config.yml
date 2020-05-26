@@ -16,10 +16,10 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'LintaoPeng'
 NickName: 'PLT'
-webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
+webtitle: 'My Webtitle'
+#bio: 'your awesome bio'
 about: true
-aboutyou: 'your introduction'
+aboutyou: 'I obtained an undergraduate degree in the School of Computer Science and Technology of Xidian University. I am currently pursuing a master's degree in the Beijing University of Technology's Sky and Space Intelligent Perception Laboratory. My research directions are computer vision and deep learning. very interested.'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
