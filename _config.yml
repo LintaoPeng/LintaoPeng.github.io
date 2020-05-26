@@ -1,6 +1,6 @@
 # Site settings 配置站点
-title: 'Personal Website'
-description: 'Lintao Peng's Blog'
+title: 'your awesome title'
+description: 'your web description'
 keywords: 'your web keywords, another keywords'
 url: 'https://LintaoPeng.github.io' # your host
 
