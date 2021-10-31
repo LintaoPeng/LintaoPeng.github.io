@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Xidian University, 2016-2020
 * Exchange at Columbia University, 2018
-* M.S. in Beijing Institute of Technology University, 2020
+* M.S. in Beijing Institute of Technology 2020
 
 Work experience
 ======
