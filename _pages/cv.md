@@ -27,7 +27,7 @@ Skills
   * Pytorch
   * Tensorflow
 * Traditional Image Processing Algorithm，Computational Photography
-* Distributed Systems，Microservice architecture
+* Distributed Systems，Microservice Architecture
 
 Publications
 ======
@@ -46,4 +46,6 @@ Projects
 * Wide-File High-Resolution Imaging
 * Underwater Image Enhancement Based on Transformer(U-shape Transformer)
 * Imaging Free Single Pixel Camera Object Detection
-* Spad Array image Enhancement
+* Spad Array Image Enhancement
+* Oral Health Monitoring System
+
