@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<!-- saved from url=(0050)http://www.liuyebin.com/localtrans/localtrans.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LocalTrans Project Page</title>
+<!-- Bootstrap -->
+<link href="./LocalTrans Project Page_files/bootstrap-4.0.0.css" rel="stylesheet">
+</head>
+<body data-new-gr-c-s-check-loaded="14.1036.0" data-gr-ext-installed="">
+<div id="page_container">
+<header>
+  <div class="jumbotron">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h5 class="text-center">2021</h5>
+          <h2 class="text-center"> U-shape transformer for underwater image enhancement</h2>
+          <p class="text-center">&nbsp;</p>
+          <h6 class="text-center"><a href="https://lintaopeng.github.io/">Lintao Peng<sup>1*</sup></a>, chunli Zhu<sup>2*</sup>,<a href="https://bianlab.github.io/">Liheng Bian<sup>1</sup></a> </h6>
+          <p class="text-center"><sup>1</sup>Beijing Institute of Technology </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<section>
+
+
+  <div class="container">
+    <p>&nbsp;</p>
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12 text-center">
+        <h2>Abstract</h2>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center  offset-xl-0 col-xl-12">
+        <p class="text-left"><em>Due to the absorption and scattering of light by water molecules, impurities and suspended matter dissolved in water, underwater images often have poor visual quality. Although existing underwater image enhancement(UIE) methods have achieved nice performance in quantitative evaluation indicators, there are still several major problems:
+	(1) Due to the lack of large-scale real underwater image datasets covering rich underwater scenes, existing data-driven UIE methods often have unstable performance in complex real underwater scenes. (2) The existing network methods ignore the inconsistent characteristics of the attenuation degree of the underwater image in the channel dimension and the space dimension.
+	In order to solve the above problems, we first constructed a large-scale underwater image dataset called LSUI  which containing rich underwater scenes and contains 5004 pictures collected from the real underwater world, each with a corresponding reference image. Secondly, we introduced the transformer model to the UIE task for the first time, and inserted channel-wise multi-scale feature fusion tranformer (CMSFFT) and spatial-wise global feature modeling tranforme (SGFMT) on the basis of unet-gan. The entire model is named U-shape Transformer. Thirdly, based on the color perception principle of the human eye, we propose a novel multi-color space loss function that combines the advantages of RGB, LAB, and LCH color spaces to calculate network loss to improve the visual quality of our results. Extensive experiments on public underwater image data sets demonstrate that our method achieves superior performance against other state-of-the-arts in UIE.</em></p>
+        <p class="text-left">&nbsp;</p>
+        <h5 class="text-center">
+          <a href=" ">[arXiv]</a>
+          <a href=" ">[Code]</a>
+          <a href=" ">[Data]</a>
+        </h5>
+      </div>
+    </div>
+
+      <hr>
+      <div class="container">
+    <p>&nbsp;</p>
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12 text-center">
+        <h2>Highlights</h2>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center  offset-xl-0 col-xl-12">
+        <p class="text-left"><em>
+          1. We propose a novel UIE network called U-shape Transformer, which integrates the CMSFFT and the SGFMT into the encoding-decoding network architecture and serves as our network's generator. <br>
+
+          2. We released a large-scale underwater dataset  called LSUI. As far as we know, compared with the existing real underwater data set, it contains more image pairs and involves a wider range of underwater scenes and water types. <br>
+
+          3. We propose a novel multi-color space loss function. The loss is calculated in the three color spaces of RGB, LCH, and LAB and back-propagated to the network for training, which  effectively improved the imaging quality of our network.<br>
+
+          4. Extensive experiments have show that the U-shape transformer we proposed combined with the multi-color space loss function achieves state-of-the-art performance on several public datasets and our dataset.<br>
+        </em></p>
+        <p class="text-left">&nbsp;</p>
+      </div>
+    </div>
+      
+      
+    <hr>
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12 text-center">     
+        <h2>Overall Architecture </h2>
+        <p>&nbsp;</p>
+      </div>
+
+    </div>
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 text-center offset-xl-1 col-xl-10"> <img src="./LocalTrans Project Page_files/2.png" width="800" alt="" >
+          <p>&nbsp;</p>
+          <p class="text-left">Fig 2. Detailed network structure. The model is modified based on Unet-Gan. In order to guide the network to pay attention to the more severely attenuated color channels and spatial regions, we introduced the CMSFFT module and SGFMT module based on transformer architecture . In order to make the training process of our nodel more stable, we added a multi-scale gradient flow mechanism to the network.</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+      </div>
+    </div>
+     
+
+
+    <hr> 
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12 text-center">
+        <h2>Detailed structure of SGFMT and CMSFFT </h2>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+
+    
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center offset-xl-1 col-xl-10"> <img src="./LocalTrans Project Page_files/3.png" width="800" alt="" align="center">
+        <p>&nbsp;</p>
+        <p class="text-center">Fig 3. SGFMT data flow diagram.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center offset-xl-1 col-xl-10"> <img src="./LocalTrans Project Page_files/4.png" width="800" alt="" align="center">
+        <p>&nbsp;</p>
+        <p class="text-center">Fig 4. CMSFFT detailed structure</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+
+
+
+      
+    <hr> 
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12 text-center">
+        <h2>Results </h2>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center col-xl-12"> <img src="./LocalTrans Project Page_files/5.png" width="1000" alt="">
+        <p>&nbsp;</p>
+        <p class="text-center">Fig 5. Enhancement results of U-shape transformer trained on different underwater datasets. (a): underwater images sampled from Test-L504; (b): enhanced results using the model trained on the underwater dataset Train-U2050; (c): enhanced results using the model trained on the underwater dataset Train-E11435; (d): enhanced results using the model trained by our proposed dataset Train-L4500.</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center col-xl-12"> <img src="./LocalTrans Project Page_files/6.png" width="1000" alt="">
+        <p>&nbsp;</p>
+        <p class="text-center">Fig 6. Visual comparison of enhancement results sampled from Test-L504. From left to right are raw images, and the results of UIBLA, Retinex based, FUnLE, UGAN, UIE-DAL, Ucolor, and our U-shape Transformer.</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center col-xl-12"> <img src="./LocalTrans Project Page_files/7.png" width="1000" alt="">
+        <p>&nbsp;</p>
+        <p class="text-center">Fig 7. Visual comparison of enhancement results sampled from Test-U60. From left to right are raw images, and the results of UIBLA , Retinex based, FUnLE, UGAN, UIE-DAL, Ucolor, and our U-shape Transformer.</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center col-xl-12"> <img src="./LocalTrans Project Page_files/7.png" width="1000" alt="">
+        <p>&nbsp;</p>
+        <p class="text-center">Fig 7. Visual comparison of enhancement results sampled from Test-U60. From left to right are raw images, and the results of UIBLA , Retinex based, FUnLE, UGAN, UIE-DAL, Ucolor, and our U-shape Transformer.</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center col-xl-12"> <img src="./LocalTrans Project Page_files/8.png" width="500" alt="">
+        <p>&nbsp;</p>
+        <p class="text-center">Fig 8. Evaluation with Reference Images on Test-L504 and Test-U90</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center col-xl-12"> <img src="./LocalTrans Project Page_files/9.png" width="800" alt="">
+        <p>&nbsp;</p>
+        <p class="text-center">Fig 9. Evaluation without Reference Images on Test-U60 and SQUID</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+
+
+    <hr>  
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12 text-center">
+        <h2>Technical Paper</h2>
+      </div>
+    </div>
+    <p>&nbsp;</p>
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12 text-center"> <a href="http://www.liuyebin.com/localtrans/assets/main.pdf"><img src="./LocalTrans Project Page_files/10.png" width="1000" alt=""></a>
+      <p>&nbsp;</p>
+    </div>
+    <hr>
+
+
+    <div class="row">
+      <div class="col-lg-12 mb-4 mt-2 text-center">
+        <h2>Demo Video</h2>
+      </div>
+    </div>
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12 text-center">
+      <video controls="controls" width="1024" height="576">
+        <source src="./assets/video.mp4" type="video/mp4">
+      </video>
+      <p>&nbsp;</p>
+    </div>
+	<hr>
+
+
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12 text-center">
+        <h2>Citation</h2>
+      </div>
+    </div>
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12 text-left">
+      <p><span style="color:#000000;font-family:&#39;Courier New&#39;;font-size:15px;"> 
+
+      </span></p>
+      <p>&nbsp;</p>
+      <p><span style="color:#000000;font-family:&#39;Courier New&#39;;font-size:15px;">
+
+		  </span></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </div>
+    <div class="row"> </div>
+  </div>
+  <div class="jumbotron"> </div>
+
+</div></section>	
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="./LocalTrans Project Page_files/jquery-3.2.1.min.js.下载"></script> 
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script src="./LocalTrans Project Page_files/popper.min.js.下载"></script> 
+<script src="./LocalTrans Project Page_files/bootstrap-4.0.0.js.下载"></script>
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
