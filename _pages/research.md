@@ -22,7 +22,7 @@ Due to the absorption and scattering of light by water molecules, impurities and
 
 ​	In order to solve the above problems, we first constructed a large-scale underwater image dataset called LSUI  which containing rich underwater scenes and contains 5004 pictures collected from the real underwater world, each with a corresponding reference image. Secondly, we introduced the transformer model to the UIE task for the first time, and inserted channel-wise multi-scale feature fusion tranformer (CMSFFT) and spatial-wise global feature modeling tranforme (SGFMT) on the basis of Unet-Gan. The entire model is named U-shape Transformer. Thirdly, based on the color perception principle of the human eye, we propose a novel multi-color space loss function that combines the advantages of RGB, LAB, and LCH color spaces to calculate network loss to improve the visual quality of our results.
 
-For detail information, please refer to [U-shape Transformer for Underwater Image Enhancement  ](UIE Project Page.html) 
+
 
 
 
