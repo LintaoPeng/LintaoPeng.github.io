@@ -22,7 +22,7 @@ author_profile: true
 <video controls="controls" width="1280" height="720">
     <source src="../images/4.mp4" type="video/mp4">
 </video>
-### 2018年某个黄昏下的西电跳楼塔
+### 2018年某天黄昏的西电跳楼塔
 ![avatar](../images/1.jpg)
 ### 纽约时代广场，摄于2018年
 ![avatar](../images/2.jpg)
