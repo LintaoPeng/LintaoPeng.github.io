@@ -50,3 +50,9 @@ author_profile: true
 ![avatar](../images/12.jpg)
 ### 云朵，摄于2019年
 ![avatar](../images/14.jpg)
+### 北国深秋，摄于2019年
+![avatar](../images/15.jpg)
+
+![avatar](../images/16.jpg)
+
+![avatar](../images/17.jpg)
