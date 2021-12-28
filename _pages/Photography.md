@@ -36,6 +36,8 @@ author_profile: true
 ![avatar](../images/6.jpg)
 ### 帝国大厦的夜景，摄于2018年
 ![avatar](../images/7.jpg)
+### 西电的黄昏，摄于2019年
+![avatar](../images/18.jpg)
 ### 西湖，摄于2019年
 ![avatar](../images/8.jpg)
 ### 落日余晖，摄于2019年
@@ -50,7 +52,7 @@ author_profile: true
 ![avatar](../images/12.jpg)
 ### 云朵，摄于2019年
 ![avatar](../images/14.jpg)
-### 北国深秋，摄于2019年
+### 北国深秋，摄于2020年
 ![avatar](../images/15.jpg)
 
 ![avatar](../images/16.jpg)
