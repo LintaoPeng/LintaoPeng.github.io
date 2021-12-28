@@ -7,19 +7,19 @@ author_profile: true
 
 ## 摄影作品合集
 ### 家乡,温暖的记忆
-<video controls="controls" width="1280" height="720">
+<video controls="controls" width="720" height="480">
     <source src="../images/1.mp4" type="video/mp4">
 </video>
 ### 一些碎片
-<video controls="controls" width="1280" height="720">
+<video controls="controls" width="720" height="480">
     <source src="../images/2.mp4" type="video/mp4">
 </video>
 ### 家乡的梯田花海
-<video controls="controls" width="1280" height="720">
+<video controls="controls" width="720" height="480">
     <source src="../images/3.mp4" type="video/mp4">
 </video>
 ### 有关成长
-<video controls="controls" width="1280" height="720">
+<video controls="controls" width="720" height="480">
     <source src="../images/4.mp4" type="video/mp4">
 </video>
 ### 2018年某天黄昏的西电跳楼塔
