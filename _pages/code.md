@@ -7,7 +7,7 @@ author_profile: true
 
 ## Dataset
 ### LSUI
-LSUI is a large-scale underwater image dataset including 5004 image pairs, which involve richer underwater scenes (lighting conditions, water types and target categories) and better visual quality reference images than the existing ones. You can download it from [here](https://pan.baidu.com/s/1rtHIwEmVp9BZDYJ_kb5Wfg). The password is 1iya.
+LSUI is a large-scale underwater image dataset including 5004 image pairs, which involve richer underwater scenes (lighting conditions, water types and target categories) and better visual quality reference images than the existing ones. You can download it from [here](https://pan.baidu.com/s/1rtHIwEmVp9BZDYJ_kb5Wfg).  Please contact bian@bit.edu.cn to obtain the download password, and leave your name and organization, we will reply within 48 hours.
 ![avatar](../images/data.png)
 
 ​                                                                                     Fig. 1: LSUI Dataset
