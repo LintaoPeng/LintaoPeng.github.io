@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Homepage of Lintao Peng"
-subtitle                 : "Master student at Beijing Institute of Technology"
+subtitle                 : "PhD student at Beijing Institute of Technology"
 title_separator          : "-"
 name                     : &name "Lintao Peng"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "LintaoPeng"
   avatar           : "Lintao.jpg"
-  bio              : "Master student at Beijing Institute of Technology"
+  bio              : "PhD student at Beijing Institute of Technology"
   email            : "plt_xidian@foxmail.com"
   location         : "Beijing, China"
   employer         :
