@@ -21,3 +21,13 @@ The light absorption and scattering of underwater impurities lead to poor underw
 
 For detail information, please refer to [U-shape Transformer for Underwater Image Enhancement](https://lintaopeng.github.io/_pages/UIE%20Project%20Page.html)
 
+
+
+
+##  Large-scale SPAD Imaging by Deep Gated Fusion Transformer
+![avatar](../images/Gated_Fusion_Transformer.png)
+Benefiting from the single photon detection and time stamping ability, single photon avalanche diode (SPAD) arrays have been widely applied in various fields such as fluorescence lifetime imaging and quantum computing. However, large-scale high-SNR SPAD imaging remains a big challenge due to complex hardware manufacture craft and heavy noise disturbance. In this work, we introduce deep learning into SPAD arrays, enabling super-resolution single-photon imaging with high SNR. Specifically, we first studied the photon flow model of SPAD electronics to accurately characterize multiple noise sources, and collected a real SPAD image dataset (64*32 pixels, 90 scenes, 3600 images) to calibrate noise model parameters. With this physical noise model, we for the first time synthesized a large-scale realistic SPAD image dataset (mega pixels, 17250 scenes, 1.1 million images) for subsequent network training. To tackle the super-resolution challenge of SPAD inputs with low bit depth, low resolution and heavy noise, we further built a deep transformer network with content-adaptive self-attention mechanism and gated fusion modules, which enables to remove multiple-source noise and extract full-frequency information for retrieving high-fidelity details. Extensive simulations and experiments validate the reported technique to achieve state-of-the-art SPAD super-resolution imaging over an order of magnitude.
+![avatar](../images/spad_test.png)
+
+This work is under review, the code and dataset are coming soon.
+
