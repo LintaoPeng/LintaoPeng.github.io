@@ -31,3 +31,15 @@ For detail information, please refer to [U-shape Transformer for Underwater Imag
 
 This work is under review, the code and dataset are coming soon.
 
+
+
+
+##  Single-pixel Image-free Object-detection
+![avatar](../images/SPOD.png)
+    Recently developed image-free sensing techniques have achieved remarkable performance in various tasks. However, the existing image-free methods still cannot simultaneously obtain the category, location and size information of all objects contained in the scene. In this letter, we report a novel image-free single-pixel object detection (SPOD) method. SPOD enables efficient and robust multi-object detection directly from a small number of measurements, eliminating the requirement for complicated image reconstruction. Different from the conventional full-size pattern sampling method, the reported small-size optimized pattern sampling method achieves better imagefree sensing performance with less number of patterns. Moreover, instead of simply stacking CNN layers, we design the SPOD based on the transformer architecture. It can better model global features, reinforce the network’s attention to the targets in the scene, thus improving the object detection performance. We demonstrate the effectiveness of SPOD on the Voc dataset, which achieves a detection accuracy of 82.41% mAP at a sampling rate of 5% with a refresh rate of 63 FPS.
+![avatar](../images/SPOD_test.png)
+
+This work is accepted by[Optics Letters, 2023, vol. 48, no. 10, pp. 2527-2530.](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-10-2527) <br>
+   Highlighted by [Editor's pick](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-10-2527), and reported by [Optica News: Researchers detect and classify multiple objects without images](https://www.optica.org/en-us/about/newsroom/news_releases/2023/may/researchers_detect_and_classify_multiple_objects_w/).
+
+
