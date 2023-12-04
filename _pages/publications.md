@@ -20,7 +20,7 @@ author_profile: true
    [Optics Letters, 2023, vol. 48, no. 10, pp. 2527-2530.](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-10-2527) <br>
    Highlighted by [Editor's pick](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-10-2527), and reported by [Optica News: Researchers detect and classify multiple objects without images](https://www.optica.org/en-us/about/newsroom/news_releases/2023/may/researchers_detect_and_classify_multiple_objects_w/).
 
-- Liheng Bian*, Haoze Song, **Lintao Peng**, *et al*. <br>
+- Liheng Bian*, Haoze Song, **Lintao Peng**, _et al_. <br>
   High-resolution single-photon imaging with physics-informed deep learning. <br>
   [Nature Communications, 2023, vol. 14, no. 5902, pp. 1-13.](https://www.nature.com/articles/s41467-023-41597-9) <br>
 
@@ -29,7 +29,7 @@ author_profile: true
  [Proc. SPIE 12317, Optoelectronic Imaging and Multimedia Technology IX, 1231703 (4 January 2023).](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12317/1231703/Large-scale-single-pixel-imaging-via-deep-learning/10.1117/12.2643014.short?SSO=1) <br>
 
 
-### Under Review
+## Under Review
 - **Lintao Peng**, Siyu Xie and Liheng Bian* (2023) <br>
   Uncertainty-Driven Spectral Compressive Imaging with Spatial-Frequency Transformer. <br>
   Under review at CVPR2024
