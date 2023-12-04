@@ -22,21 +22,21 @@ My current research interests are mainly about computational imaging and sensing
 ## Selected Publications
 
 - **Lintao Peng**,Chunli Zhu, Liheng Bian* (2023) <br>
-  U-shape Transformer for Underwater Image Enhancement. <br>
-   [EEE Transactions on Image Processing, 2023, vol. 32, pp. 3066-3079.](https://ieeexplore.ieee.org/document/10129222) <br>
+  [**U-shape Transformer for Underwater Image Enhancement.**](https://ieeexplore.ieee.org/document/10129222) <br>
+  **IEEE Transactions on Image Processing**, 2023, vol. 32, pp. 3066-3079.] <br>
 
-- **Lintao Peng**, Liheng Bian*, Tiexin Liu, Jun Zhang. (2021) <br>
-  Agile wide-field imaging with selective high resolution. <br>
-   [Optica Express](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-22-35602) <br>
-
-- **Lintao Peng**, Siyu Xie, Tong Qin, Lu Cao, Liheng Bian* (2022) <br>
-  Image-free single-pixel object detection. <br>
-   [Optics Letters, 2023, vol. 48, no. 10, pp. 2527-2530.](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-10-2527) <br>
+- **Lintao Peng**, Siyu Xie, Tong Qin, Lu Cao, Liheng Bian* (2023) <br>
+  [**Image-free single-pixel object detection.**](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-10-2527) <br>
+  **Optics Letters**, 2023, vol. 48, no. 10, pp. 2527-2530. <br>
    Highlighted by [Editor's pick](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-10-2527), and reported by [Optica News: Researchers detect and classify multiple objects without images](https://www.optica.org/en-us/about/newsroom/news_releases/2023/may/researchers_detect_and_classify_multiple_objects_w/).
 
+- **Lintao Peng**, Liheng Bian*, Tiexin Liu, Jun Zhang. (2021) <br>
+  [**Agile wide-field imaging with selective high resolution.**](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-22-35602) <br>
+  **Optics Express**, 2021, vol. 29, no. 22, pp. 35602-35612. <br>
+
 - Liheng Bian*, Haoze Song, **Lintao Peng**, *et al*. <br>
-  High-resolution single-photon imaging with physics-informed deep learning. <br>
-  [Nature Communications, 2023, vol. 14, no. 5902, pp. 1-13.](https://www.nature.com/articles/s41467-023-41597-9) <br>
+  [**High-resolution single-photon imaging with physics-informed deep learning.**](https://www.nature.com/articles/s41467-023-41597-9) <br>
+  **Nature Communications**, 2023, vol. 14, no. 5902, pp. 1-13. <br>
 
 
 ## Work Experience
