@@ -24,7 +24,7 @@ author_profile: true
   High-resolution single-photon imaging with physics-informed deep learning. <br>
   [Nature Communications, 2023, vol. 14, no. 5902, pp. 1-13.](https://www.nature.com/articles/s41467-023-41597-9) <br>
 
--Siyu Xie, **Lintao Peng**, Liheng Bian* <br>
+- Siyu Xie, **Lintao Peng**, Liheng Bian* <br>
  Large-scale single-pixel imaging via deep learning <br>
  [Proc. SPIE 12317, Optoelectronic Imaging and Multimedia Technology IX, 1231703 (4 January 2023).](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12317/1231703/Large-scale-single-pixel-imaging-via-deep-learning/10.1117/12.2643014.short?SSO=1) <br>
 
