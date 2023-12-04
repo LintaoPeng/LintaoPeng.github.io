@@ -12,7 +12,7 @@ redirect_from:
 
 Thank you for visiting my website! I'm Lintao Peng, currently a Ph.D. student at [Computational Sensing Lab](https://bianlab.github.io/), Beijing Insitute of Technology, advised by Prof. [Liheng Bian](https://bianlab.github.io/). Previously, I received my B. Eng in Computer Science and Technology in Xidian University.
 
-My current research interests are mainly about computational imaging and sensing. Specifically, I focus on deep-learning-based imaging and sensing techniques in complex environments. Also I investigate deeper with various self-attention mechanisms and uncertainty driven loss to improve the performance of the imaging and sensing networks.
+My current research interests are mainly about **computational imaging and sensing**. Specifically, I focus on deep-learning-based imaging and sensing techniques in complex environments. Also I investigate deeper with various self-attention mechanisms and loss functions to improve the performance of the imaging and sensing networks.
 
 
 [Email](plt_xidian@foxmail.com) / [CV](../files/Lintao_Peng_CV-BIT.pdf) / [Google Scholar](https://scholar.google.com/citations?user=mpKrpgQAAAAJ&hl=zh-CN) / [Github](https://github.com/LintaoPeng)
