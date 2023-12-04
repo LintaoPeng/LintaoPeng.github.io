@@ -50,7 +50,7 @@ My current research interests are mainly about computational imaging and sensing
 - School of Information and Electronics
 -	Co-supervised by Prof. Jun Zhang (Member of Chinese Academy of Engineering) and Dr. Liheng Bian
 
-**B.Eng., Xidian University,** (2020.09 - present)                                                         
+**B.Eng., Xidian University,** (2016.09 - 2020.06)                                                         
 - School of Computer Science and Technology
 -	Excellent Graduation Thesis of Xidian University
  
