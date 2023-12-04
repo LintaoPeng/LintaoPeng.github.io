@@ -34,7 +34,7 @@ My current research interests are mainly about **computational imaging and sensi
   [**Agile wide-field imaging with selective high resolution.**](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-22-35602) <br>
   **Optics Express**, 2021, vol. 29, no. 22, pp. 35602-35612. <br>
 
-- Liheng Bian*, Haoze Song, **Lintao Peng**, *et al*. <br>
+- Liheng Bian*, Haoze Song, **Lintao Peng**, _et al_. <br>
   [**High-resolution single-photon imaging with physics-informed deep learning.**](https://www.nature.com/articles/s41467-023-41597-9) <br>
   **Nature Communications**, 2023, vol. 14, no. 5902, pp. 1-13. <br>
 
