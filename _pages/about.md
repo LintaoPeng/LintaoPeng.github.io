@@ -19,7 +19,7 @@ My current research interests are mainly about computational imaging and sensing
 
 *The world is full of magic things, patiently waiting for our senses to grow sharper.  -- W.B. Yeats*
 
-### Selected Publications
+## Selected Publications
 
 - **Lintao Peng**,Chunli Zhu, Liheng Bian* (2023) <br>
   U-shape Transformer for Underwater Image Enhancement. <br>
@@ -39,13 +39,13 @@ My current research interests are mainly about computational imaging and sensing
   [Nature Communications, 2023, vol. 14, no. 5902, pp. 1-13.](https://www.nature.com/articles/s41467-023-41597-9) <br>
 
 
-### Work Experience
+## Work Experience
 
 **Research Intern, Alibaba Group**     (2019.06-2019.10)
 - Developed a lip-reading system based on LSTM.
 - Received the honor of Outstanding Intern.
 
-### Education
+## Education
 **Ph.D. Student, Beijing Institute of Technology,** (2020.09 - present)                                                         
 - School of Information and Electronics
 -	Co-supervised by Prof. Jun Zhang (Member of Chinese Academy of Engineering) and Dr. Liheng Bian
@@ -55,14 +55,14 @@ My current research interests are mainly about computational imaging and sensing
 -	Excellent Graduation Thesis of Xidian University
  
 
- ### Awards & Honors
+## Awards & Honors
 -	The Special Grade Graduate Scholarship (5%)	(2022,2023)
 -	Third place in Mobile Intelligent Photography and Imaging (MIPI) challenge (ECCV Workshop) (2022)
 -	Excellent Graduation Thesis of Xidian University	(2020)
 -	First Prize in the China Undergraduate Physics Tournament (CUPT) (2018)
 -	Silver Medal in the International Collegiate Programming Contest (ICPC)	(2018)
 
- ### Academic Service (Reviewer)
+## Academic Service (Reviewer)
 Journal Reviewer: IEEE TIP, IEEE TCSVT, Fluctuation and Noise Letters
 Conference Reviewer: CVPR, ECCV
 
