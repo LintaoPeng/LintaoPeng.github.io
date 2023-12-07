@@ -40,17 +40,12 @@ My current research interests are mainly about **computational imaging and sensi
 
 
 ## Work Experience
-
 **Research Intern, Alibaba Group**     (2019.06-2019.10)
 - Developed a lip-reading system based on LSTM.
 - Received the honor of Outstanding Intern.
 
 ## Education
-**Ph.D. Student, Beijing Institute of Technology,** (2022.09 - present)                                                         
-- School of Information and Electronics
--	Co-supervised by Prof. Jun Zhang (Member of Chinese Academy of Engineering) and Dr. Liheng Bian
-
-**M.Sc. Student , Beijing Institute of Technology,** (2020.09 - 2022.06)                                                         
+**Ph.D. Student, Beijing Institute of Technology,** (2020.09 - present)                                                         
 - School of Information and Electronics
 -	Co-supervised by Prof. Jun Zhang (Member of Chinese Academy of Engineering) and Dr. Liheng Bian
 
