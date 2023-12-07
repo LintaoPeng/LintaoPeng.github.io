@@ -40,7 +40,6 @@ My current research interests are mainly about **computational imaging and sensi
 
 
 ## Work Experience
-
 **Research Intern, Alibaba Group**     (2019.06-2019.10)
 - Developed a lip-reading system based on LSTM.
 - Received the honor of Outstanding Intern.
