@@ -17,7 +17,7 @@ My current research interests are mainly about **computational imaging and sensi
 
 [Email](plt_xidian@foxmail.com) / [CV](../files/Lintao_Peng_CV-BIT.pdf) / [Google Scholar](https://scholar.google.com/citations?user=mpKrpgQAAAAJ&hl=zh-CN) / [Github](https://github.com/LintaoPeng)
 
-*The world is full of magic things, patiently waiting for our senses to grow sharper.  -- W.B. Yeats*
+*Somewhere, something incredible is waiting to be known.  -- Carl Sagan*
 
 ## Selected Publications
 
