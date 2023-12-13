@@ -40,6 +40,6 @@ author_profile: true
 
 - **Lintao Peng**, Siyu Xie, Lin Ye, Fei Xiao and Liheng Bian* (2023) <br>
    **Uncertainty-Driven Oral Disease Segmentation with Parallel Transformer.** <br>
-   Under Review at **IEEE Transactions on Medical Imaging.** <br>
+   Under Review at **IEEE Transactions on Image Processing** <br>
 
 
