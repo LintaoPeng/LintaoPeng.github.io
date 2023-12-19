@@ -32,7 +32,7 @@ author_profile: true
 ## Under Review
 - **Lintao Peng**, Siyu Xie and Liheng Bian* (2023) <br>
   **Uncertainty-Driven Spectral Compressive Imaging with Spatial-Frequency Transformer.** <br>
-  Under review at **CVPR2024.**
+  Under Review
 
 - **Lintao Peng**, Siyu Xie, Hui Lu and Liheng Bian* (2023) <br>
   **Large-scale single-pixel imaging and sensing** <br>
