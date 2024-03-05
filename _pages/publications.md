@@ -28,6 +28,10 @@ author_profile: true
  [**Large-scale single-pixel imaging via deep learning.**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12317/1231703/Large-scale-single-pixel-imaging-via-deep-learning/10.1117/12.2643014.short?SSO=1) <br>
  Proc. **SPIE** 12317, Optoelectronic Imaging and Multimedia Technology IX, 1231703 (4 January 2023). <br>
 
+ - Yongqi Cao, Hui Bao, **Lintao Peng** <br>
+ [**Single-Photon-Camera-Based Time and Spatially Resolved Electroluminescence Spectroscopy for Micro-LED Analysis.**](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.3c01595) <br>
+  **ACS Photonics**,  2024, vol. 11, no. 2, pp. 731–736. <br>
+
 
 ## Under Review
 - **Lintao Peng**, Siyu Xie and Liheng Bian* (2023) <br>
