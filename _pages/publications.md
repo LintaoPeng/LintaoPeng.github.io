@@ -41,11 +41,11 @@ author_profile: true
 
 - **Lintao Peng**, Chang Li, Siyu Xie, Xue Chen, Fei Xiao and Liheng Bian* (2024) <br>
   **Boosting Bacterial Detection With Hyperspectral Mining ** <br>
-  Under Revision at **Science Advances.** <br>
+  Under Review at **Science Advances.** <br>
 
 - **Lintao Peng**, Siyu Xie, Hui Lu and Liheng Bian* (2023) <br>
   **Large-scale single-pixel imaging and sensing** <br>
-  Under Revision at **Nature Communications.** <br>
+  Under Review at **Optica.** <br>
 
 - **Lintao Peng**, Siyu Xie, Lin Ye, Fei Xiao and Liheng Bian* (2023) <br>
    **Uncertainty-Driven Oral Disease Segmentation with Parallel Transformer.** <br>
