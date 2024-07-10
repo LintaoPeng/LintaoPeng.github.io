@@ -21,11 +21,11 @@ My current research interests are mainly about **computational imaging and sensi
 
 ## Selected Publications
 
-- **Lintao Peng**,Chunli Zhu, Liheng Bian* (2023) <br>
+- **Lintao Peng**, Siyu Xie, Liheng Bian* (2023) <br>
   [**Uncertainty-driven spectral compressive imaging with spatial-frequency transformer.**](https://lintaopeng.github.io/) <br>
   **ECCV**, 2024.] <br>
   
-- **Lintao Peng**,Chunli Zhu, Liheng Bian* (2023) <br>
+- **Lintao Peng**, Chunli Zhu, Liheng Bian* (2023) <br>
   [**U-shape Transformer for Underwater Image Enhancement.**](https://ieeexplore.ieee.org/document/10129222) <br>
   **IEEE Transactions on Image Processing**, 2023, vol. 32, pp. 3066-3079.] <br>
 
