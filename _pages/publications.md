@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-- **Lintao Peng**,Siyu Xie, Liheng Bian* (2023) <br>
+- **Lintao Peng**,Siyu Xie, Liheng Bian* (2024) <br>
   [**Uncertainty-driven spectral compressive imaging with spatial-frequency transformer.**](https://lintaopeng.github.io/) <br>
   **ECCV**, 2024. <br>
 
