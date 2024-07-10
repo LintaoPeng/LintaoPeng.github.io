@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-- **Lintao Peng**,Siyu Xie, Liheng Bian* (2024) <br>
+- **Lintao Peng**, Siyu Xie, Liheng Bian* (2024) <br>
   [**Uncertainty-driven spectral compressive imaging with spatial-frequency transformer.**](https://lintaopeng.github.io/) <br>
   **ECCV**, 2024. <br>
 
@@ -38,9 +38,10 @@ author_profile: true
 
 
 ## Under Review
-- **Lintao Peng**, Siyu Xie and Liheng Bian* (2023) <br>
-  **Uncertainty-Driven Spectral Compressive Imaging with Spatial-Frequency Transformer.** <br>
-  Under Review
+
+- **Lintao Peng**, Chang Li, Siyu Xie, Xue Chen, Fei Xiao and Liheng Bian* (2024) <br>
+  **Boosting Bacterial Detection With Hyperspectral Mining ** <br>
+  Under Revision at **Science Advances.** <br>
 
 - **Lintao Peng**, Siyu Xie, Hui Lu and Liheng Bian* (2023) <br>
   **Large-scale single-pixel imaging and sensing** <br>
