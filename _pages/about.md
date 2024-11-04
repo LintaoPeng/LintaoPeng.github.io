@@ -66,8 +66,8 @@ My current research interests are mainly about **computational imaging and sensi
 -	Silver Medal in the International Collegiate Programming Contest (ICPC)	(2018)
 
 ## Academic Service (Reviewer)
-- Journal Reviewer: IEEE TIP, IEEE TCSVT, Fluctuation and Noise Letters
-- Conference Reviewer: CVPR, ECCV
+- Journal Reviewer: IEEE TIP, IEEE TCSVT, IJCV, IEEE JOE
+- Conference Reviewer: CVPR, ECCV, AAAI
 
 
 
