@@ -43,12 +43,13 @@ My current research interests are mainly about **computational imaging and sensi
   **Nature Communications**, 2023, vol. 14, no. 5902, pp. 1-13. <br>
 
 
-## Work Experience
-**Research Intern, Alibaba Group**     (2019.06-2019.10)
-- Developed a lip-reading system based on LSTM.
-- Received the honor of Outstanding Intern.
 
 ## Education
+**Joint Ph.D. Student, Nanyang Technological University,** (2024.10 - present)                                                         
+- School of Electrical and Electronic Engineering
+-	Supervised by Prof. Cuong Dang
+  
+
 **Ph.D. Student, Beijing Institute of Technology,** (2020.09 - present)                                                         
 - School of Information and Electronics
 -	Co-supervised by Prof. Jun Zhang (Member of Chinese Academy of Engineering) and Dr. Liheng Bian
