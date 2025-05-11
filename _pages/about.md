@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/ba58fb6a-d9ee-424c-8143-99a59e0e1108)---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -21,9 +21,19 @@ My current research interests are mainly about **computational imaging and sensi
 
 ## Selected Publications
 
-- **Lintao Peng**, Siyu Xie, Liheng Bian* (2024) <br>
-  [**Uncertainty-driven spectral compressive imaging with spatial-frequency transformer.**](https://lintaopeng.github.io/) <br>
-  **ECCV**, 2024. <br>
+### Journals
+- **Lintao Peng**, Chang Li, Wenhui Liu, Siyu Xie, Xue Chen, Fei Xiao*, Liheng Bian*,  (2025) <br>
+  [**Boosting bacterial detection with hyperspectral mining.**](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-3-315&id=568509) <br>
+  **Optica**, 2025, vol. 12, no. 3, pp. 315-324. <be>
+
+- **Lintao Peng**, Wenhui Liu, Siyu Xie, Lin Ye, Peng Ye, Fei Xiao, Liheng Bian*,  (2025) <br>
+  [**Uncertainty-driven parallel transformer-based segmentation for oral disease dataset.**](https://ieeexplore.ieee.org/document/10910012) <br>
+  **IEEE Transactions on Image Processing**, 2025, vol. 34, pp. 1632-1644. <br>
+
+- **Lintao Peng**, Siyu Xie, Hui Lu, Liheng Bian*  (2025) <br>
+  [**Large-scale single-pixel imaging and sensing.**](https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-4/issue-2/026010/Large-scale-single-pixel-imaging-and-sensing/10.1117/1.APN.4.2.026010.full) <br>
+  **Advanced Photonics Nexus**, 2025, vol. 4, no. 2, pp. 026010. <br>
+
   
 - **Lintao Peng**, Chunli Zhu, Liheng Bian* (2023) <br>
   [**U-shape Transformer for Underwater Image Enhancement.**](https://ieeexplore.ieee.org/document/10129222) <br>
@@ -41,6 +51,16 @@ My current research interests are mainly about **computational imaging and sensi
 - Liheng Bian*, Haoze Song, **Lintao Peng**, _et al_. <br>
   [**High-resolution single-photon imaging with physics-informed deep learning.**](https://www.nature.com/articles/s41467-023-41597-9) <br>
   **Nature Communications**, 2023, vol. 14, no. 5902, pp. 1-13. <br>
+
+### conference
+
+- **Lintao Peng**, Liheng Bian*,  (2025) <br>
+  [**Adaptive dual-domain learning for underwater image enhancement.**](https://ojs.aaai.org/index.php/AAAI/article/view/32692) <br>
+  **AAAI**, 2025. <br>
+
+- **Lintao Peng**, Siyu Xie, Liheng Bian* (2024) <br>
+  [**Uncertainty-driven spectral compressive imaging with spatial-frequency transformer.**](https://eccv.ecva.net/virtual/2024/poster/1798) <br>
+  **ECCV**, 2024. <br>
 
 
 
@@ -68,7 +88,7 @@ My current research interests are mainly about **computational imaging and sensi
 
 ## Academic Service (Reviewer)
 - Journal Reviewer: IEEE TIP, IEEE TCSVT, IJCV, IEEE JOE
-- Conference Reviewer: CVPR, ECCV, AAAI
+- Conference Reviewer: CVPR, ECCV, AAAI, ICCV, ACM MM
 
 
 
