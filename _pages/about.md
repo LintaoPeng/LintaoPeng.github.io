@@ -51,7 +51,7 @@ My current research interests are mainly about **computational imaging and sensi
   [**High-resolution single-photon imaging with physics-informed deep learning.**](https://www.nature.com/articles/s41467-023-41597-9) <br>
   **Nature Communications**, 2023, vol. 14, no. 5902, pp. 1-13. <br>
 
-### conference
+### Conference
 
 - **Lintao Peng**, Liheng Bian*,  (2025) <br>
   [**Adaptive dual-domain learning for underwater image enhancement.**](https://ojs.aaai.org/index.php/AAAI/article/view/32692) <br>
