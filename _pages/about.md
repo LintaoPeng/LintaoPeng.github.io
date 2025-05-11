@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/ba58fb6a-d9ee-424c-8143-99a59e0e1108)---
+---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
