@@ -22,7 +22,7 @@ My current research interests are mainly about **computational imaging and sensi
 
 ### Journals
 - **Lintao Peng**, Mingwei He, Sujit Kumar Sahoo, Liheng Bian, Cuong Dang*,  (2026) <br>
-  [**Ultra-wide-field Noninvasive Imaging through Scattering Media via Physics-guided Deep Learning.**](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-3-315&id=568509) <br>
+  [**Ultra-wide-field Noninvasive Imaging through Scattering Media via Physics-guided Deep Learning.**](xxxx) <br>
   **Advanced Science**, Accepted. <be>
 
 
