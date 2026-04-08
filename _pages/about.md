@@ -21,6 +21,12 @@ My current research interests are mainly about **computational imaging and sensi
 ## Selected Publications
 
 ### Journals
+- **Lintao Peng**, Mingwei He, Sujit Kumar Sahoo, Liheng Bian, Cuong Dang*,  (2026) <br>
+  [**Ultra-wide-field Noninvasive Imaging through Scattering Media via Physics-guided Deep Learning.**](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-3-315&id=568509) <br>
+  **Advanced Science**, Accepted. <be>
+
+
+
 - **Lintao Peng**, Chang Li, Wenhui Liu, Siyu Xie, Xue Chen, Fei Xiao*, Liheng Bian*,  (2025) <br>
   [**Boosting bacterial detection with hyperspectral mining.**](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-3-315&id=568509) <br>
   **Optica**, 2025, vol. 12, no. 3, pp. 315-324. <be>
